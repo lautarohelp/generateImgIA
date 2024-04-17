@@ -15,3 +15,5 @@ Para poder conectarse a la libreria se hace atraves de un token que te da la mis
 En el input captamos la informacion que agrega el usuario y lo colocamos en un estado que se utiliza como la prompt, y con el boton ejecutamos una funcion en la cual se ejecuta el codigo de la libreria, mas en display para poder hacer un loading.
 
 ![alt text](image-1.png)
+
+Tambien se le agrega una describcion de lo que hay en la imagen junto a un boton para traducir esa descripcion a español.
