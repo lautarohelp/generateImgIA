@@ -3,7 +3,7 @@ import { useState } from 'react';
 import './img.css';
 
 export function ImageIA() {
-const hf = new HfInference("tokenIA");
+const hf = new HfInference("");
 const [ imgURL, setImgURL] = useState("");
 const [ prompt, setPrompt ] = useState("");
 
